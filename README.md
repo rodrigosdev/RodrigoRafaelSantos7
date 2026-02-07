@@ -1,4 +1,4 @@
-Software Engineer @ [Snyk](https://www.snyk.io/).
+AI Engineer @ [Snyk](https://www.snyk.io/).
 
 I build things.
 
