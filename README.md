@@ -1,4 +1,4 @@
-Software Engineer @ [Upgraide](https://www.upgraide.ai/).
+Software Engineer @ [Snyk](https://www.snyk.io/).
 
 I build things.
 
