@@ -9,4 +9,4 @@
 
 Hi, I'm Rodrigo! 👋🏻
 
-I'm an Engineer at [Snyk.io](https://snyk.io). If I'm not working or [posting on X](https://x.com/Rodrigosantodev), I'm likely surfing on the coast of Portugal, going for a run, or hanging with friends.
+If I'm not working or [posting on X](https://x.com/Rodrigosantodev), I'm likely surfing on the coast of Portugal, going for a run, or hanging with friends.
